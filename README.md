@@ -37,6 +37,7 @@ The system helps manage:
 ---
 
 This project demonstrates workflow-based UX thinking and modern CRM dashboard design principles.
+
 <img width="1014" height="720" alt="Screenshot 2026-02-25 230532" src="https://github.com/user-attachments/assets/6b2dd67c-e68a-4bf4-b40d-cd405ceea55b" />
 <img width="1440" height="1024" alt="02_Client_List" src="https://github.com/user-attachments/assets/fe411678-ca16-4000-a4e4-5139ec07c21d" />
 <img width="1002" height="720" alt="Screenshot 2026-02-25 231004" src="https://github.com/user-attachments/assets/d673c4e8-b292-48b0-bdf7-9f0c1c50c89a" />
